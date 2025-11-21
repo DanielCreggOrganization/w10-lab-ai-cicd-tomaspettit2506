@@ -49,7 +49,7 @@ flowchart LR
 -----
 
 
-## Part 1: Generative CI/CD (20 Mins)
+## Part 1: Generative CI/CD
 
 *Goal: Use Copilot Agent Mode to generate the pipeline files automatically.*
 
@@ -78,7 +78,7 @@ Instead of writing YAML manually or copy-pasting, we will ask the AI Agent to cr
 
 -----
 
-## Part 2: Pipeline Updates (20 Mins)
+## Part 2: Pipeline Updates
 
 *Goal: Use Copilot to write shell scripts without knowing the syntax.*
 
@@ -109,7 +109,7 @@ We want to add a step to our pipeline that prints the version of Flask currently
 
 -----
 
-## Part 3: The "Fix It" Loop (20 Mins)
+## Part 3: The "Fix It" Loop
 
 *Goal: Simulate a failure and use AI to diagnose it.*
 
@@ -146,7 +146,7 @@ A CI pipeline is useless if you can't fix it when it breaks.
 
 -----
 
-## Part 4: Advanced - Security & Autofix (15 Mins)
+## Part 4: Advanced - Security & Autofix
 
 *Goal: Use AI to find security vulnerabilities.*
 
