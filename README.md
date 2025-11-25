@@ -16,7 +16,7 @@ This is a Python Flask web application designed for learning CI/CD (Continuous I
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-   cd w10-lab-ai-cicd-tomaspettit2506
+   cd <repository-name>
    ```
 
 2. Install the required dependencies:
