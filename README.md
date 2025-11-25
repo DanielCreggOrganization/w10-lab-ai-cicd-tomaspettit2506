@@ -1,4 +1,47 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=21828359)
+
+# Python Flask CI/CD Lab Application
+
+This is a Python Flask web application designed for learning CI/CD (Continuous Integration/Continuous Deployment) concepts with GitHub Actions.
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.12 or higher
+- pip (Python package manager)
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   cd w10-lab-ai-cicd-tomaspettit2506
+   ```
+
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+### Running the Application
+
+Start the Flask development server:
+```bash
+python3 -m flask --app startup run
+```
+
+The application will be available at `http://127.0.0.1:5000/`.
+
+### Running the Tests
+
+Run the test suite using pytest:
+```bash
+python -m pytest
+```
+
+---
+
 # Lab: AI-Powered CI/CD with GitHub Actions
 
 ## 🚀 Introduction
