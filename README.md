@@ -298,10 +298,10 @@ Now, let's see if Copilot can critique *our* code.
 
 ## 📝 Summary Checklist
 
-  - [ ] Created a workflow using **Copilot Agent Mode**.
-  - [ ] Used `Copilot` to write a shell script step.
-  - [ ] Diagnosed a CI log error using Copilot Chat.
-  - [ ] Assigned a GitHub Issue to `@copilot` and merged the resulting PR.
-  - [ ] Received an automated Code Review from Copilot on a Pull Request.
+  - [✅] Created a workflow using **Copilot Agent Mode**.
+  - [✅] Used `Copilot` to write a shell script step.
+  - [✅] Diagnosed a CI log error using Copilot Chat.
+  - [✅] Assigned a GitHub Issue to `@copilot` and merged the resulting PR.
+  - [✅] Received an automated Code Review from Copilot on a Pull Request.
 
 -----
